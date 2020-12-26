@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True"/>
+    <property name="AllowTopSoilDecorations" value="False"/>
+    <property name="TraderArea" value="False"/>
+    <property name="ExcludeDistantPOIMesh" value="False"/>
+    <property name="ExcludePOICulling" value="False"/>
+    <property name="DifficultyTier" value="5"/>
+    <property name="Zoning" value="NoZone,Residential"/>
+    <property name="RotationToFaceNorth" value="1"/>
+    <property name="YOffset" value="-16"/>
+    <property name="DistantPOIYOffset" value="0"/>
+    <property name="AllowedBiomes" value="desert"/>
+    <property name="EditorGroups" value="Wilderness"/>
+    <property name="TraderAreaProtect" value="37, 48, 31"/>
+    <property name="TraderAreaTeleportSize" value="37, 48, 31"/>
+    <property name="TraderAreaTeleportCenter" value="0, 0, 0"/>
+    <property name="SleeperVolumeStart" value="0, 16, 0#1, 4, 3"/>
+    <property name="SleeperVolumeSize" value="13, 8, 15#7, 12, 6"/>
+    <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Badass_Only,20,30,S_-_Group_Zom_Badass_Only,8,11"/>
+    <property name="SleeperVolumeGameStageAdjust" value=","/>
+    <property name="SleeperIsLootVolume" value="False,False"/>
+    <property name="SleeperIsQuestExclude" value="False,False"/>
+    <property name="SleeperVolumeFlags" value="2,2"/>
+    <property name="SleeperVolumeGroupId" value="0,0"/>
+    <property name="ShowQuestClearCount" value="0,0"/>
+</prefab>

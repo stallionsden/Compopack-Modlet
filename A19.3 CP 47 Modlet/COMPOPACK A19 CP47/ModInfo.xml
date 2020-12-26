@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="COMPOPACK A19 CP47" />
+        <Description value="Adds CompoPack A19 to the RWGMixer" />
+        <Author value="Magoli" />
+        <Version value="a19.3" />
+    </ModInfo>
+</xml>
